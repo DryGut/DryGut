@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning C, Python and PHP
-- 📫 How to reach me: https://www.linkedin.com/in/renato-martins-088518223
+- 📫 How to reach me: https://www.linkedin.com/in/renato-martinsEH
 
 ![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=DryGut&theme=dark)
 
