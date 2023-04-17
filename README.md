@@ -6,6 +6,6 @@
 - 🌱 I’m currently a front-end developer
 - 📫 How to reach me: https://www.linkedin.com/in/renato-martinsEH
 
-![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=DryGut&theme=dark)
+[![Renato Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=DryGut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DryGut&layout=compact&theme=dark)](https://github.com/DryGut/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DryGut&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
